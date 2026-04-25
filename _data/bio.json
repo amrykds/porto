@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "Amr Yasser",
+    "label": "Student",
+    "picture": "http://github.com/amryk2012.png",
+    "email": "amryasserds@gmail.com",
+    "phone": "01553969893",
+    "website": "https://amryk2012.github.io",
+    "summary": "I am a passionate law student at Ain Shams University, set to graduate with a Bachelor of Science in Law in Spring 2025. Alongside my legal studies, I have over seven years of experience in game development using the Unity engine. I specialize in freelance game programming, creating custom solutions for various projects. My goal is to transition into a professional role in game development while leveraging my legal background for analytical problem-solving. I am always eager to learn, collaborate, and contribute to innovative projects",
+    "location": {"address": "", "city": "Cairo", "countryCode": "Egypt" },
+    "profiles": [
+      { "network": "github", "username": "amryk2012", "url": "http://github.com/amryk2012" },
+      { "network": "linkedin", "username": "amr-yasser-760251233", "url": "https://www.linkedin.com/in/amr-yasser-760251233" },
+      { "network": "instagram", "username": "amr_yasser_5565", "url": "https://www.instagram.com/amr_yasser_5565" }
+    ]
+  },
+  "interests": [
+    { "name": "Video Games" },
+    { "name": "Space" },
+    { "name": "Quantum Computing" },
+    { "name": "Robotics" },
+    { "name": "3D Graphics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C#", "PHP", "MySQL", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [  "Ubuntu", "Git/GitHub",]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ain Shams University",
+      "area": "Law",
+      "studyType": "B.S.",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Freelance",
+      "position": "Programmer – Game Developer",
+      "startDate": "2020-10-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": "Freelance development and production of games, applications, and websites. Proficient in various programming engines such as Unity 3D and Android Studio. Skilled in different programming languages including C#, JavaScript, PHP, and MySQL."
+    },
+     {
+      "company": "Covo Connect",
+      "position": "Data Entry Clerk",
+      "startDate": "2024-01-01",
+      "endDate": "2024-06-30",
+      "summary": "",
+      "highlights": "Compiling, verifying accuracy, and sorting information to prepare source data for computer entry. Inserting customer and account data by inputting text-based and numerical information from source documents within time limits."
+     },
+     {
+      "company": "Dream Computer Services Local Office",
+      "position": "Data Entry Clerk",
+      "startDate": "2016-10-01",
+      "endDate": "2024-01-01",
+      "summary": "",
+     "highlights": "Converting to digital and printing documents, scientific papers, and legal documents. Research and obtain further information for incomplete documents. Scan documents and print files when needed."
+    
+     }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
